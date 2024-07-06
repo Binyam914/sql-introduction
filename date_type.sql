@@ -20,4 +20,3 @@ ORDER BY type_1;
 SELECT type_1, type_2
 FROM date_experiments
 ORDER BY type_2;
-

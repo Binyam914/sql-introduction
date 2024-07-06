@@ -11,4 +11,3 @@ CREATE TABLE Table_B (
 CREATE TABLE "Table_C" (
     col_x DECIMAL(8,2)
 );
-    

@@ -1,4 +1,4 @@
-# Per excellent advice in:
+ Per excellent advice in:
 # https://code.visualstudio.com/docs/remote/troubleshooting#_resolving-git-line-ending-issues-in-wsl-resulting-in-many-modified-files
 
 # Set text line endings to LF. This is important when using
